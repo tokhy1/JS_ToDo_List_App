@@ -4,7 +4,7 @@ This is a simple and intuitive todo list application built using JavaScript. Kee
 
 ### Preview
 
-![App preview](https://github.com/tokhy1/WeatherApp/assets/140895791/11582672-1e6b-45a6-9d61-fef320849e2a)
+![App preview](https://github.com/tokhy1/JS_ToDo_List_App/assets/140895791/76621d22-9164-4dd4-a4fe-5513fad82128)
 
 
 ## Key Features:
