@@ -2,6 +2,11 @@
 
 This is a simple and intuitive todo list application built using JavaScript. Keep track of your tasks, set priorities, and stay organized with this easy-to-use web app.
 
+### Preview
+
+![App preview](https://github.com/tokhy1/WeatherApp/assets/140895791/11582672-1e6b-45a6-9d61-fef320849e2a)
+
+
 ## Key Features:
 
 - User-friendly Interface: Enjoy a clean and responsive design for seamless task management.
