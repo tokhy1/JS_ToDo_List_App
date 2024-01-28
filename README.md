@@ -18,7 +18,6 @@ This is a simple and intuitive todo list application built using JavaScript. Kee
 
 - JavaScript: The core programming language for dynamic task handling.
 - HTML/CSS: Structuring and styling the user interface for a pleasant experience.
-- How to Use:
 
 ## Contributing
 
