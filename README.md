@@ -2,7 +2,7 @@
 
 This is a simple and intuitive todo list application built using JavaScript. Keep track of your tasks, set priorities, and stay organized with this easy-to-use web app.
 
-### Preview
+## Preview
 
 ![App preview](https://github.com/tokhy1/JS_ToDo_List_App/assets/140895791/76621d22-9164-4dd4-a4fe-5513fad82128)
 
